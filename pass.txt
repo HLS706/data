@@ -1,0 +1,90 @@
+#Some countries file crack password list
+#Prepared by Mr Alex
+#-----------general pass list----------#
+first last
+First Last
+first@123
+first@1234
+first123
+first1234
+first12345
+First Last123
+First Last12345
+#-----------Afghanistan pass list-----------#
+first last
+First Last
+first@123
+first@1234
+first123
+first1234
+first12345
+Afghan123
+Afghan12345
+Afghanistan123
+Afghanistan
+kabul123
+kandahar123
+kandahar12345
+Afghan
+10002000
+500500
+۱۲۳۴۵۶
+۱۲۳۴۵۶۷۸۹
+#-----------Bangladesh pass list-----------#
+first last
+First Last
+first@123
+first@1234
+first123
+first1234
+first12345
+First Last123
+First Last12345
+bangladesh
+Mohammed123
+Mohammad123
+Jannatul123
+i love you
+Bangladesh
+708090
+203040
+102030
+@@@###
+free fire
+#-----------India pass list-----------#
+first last
+First Last
+first@123
+first@1234
+first123
+first1234
+first12345
+First Last123
+First Last12345
+india123
+57273200
+hindustan
+59039200
+57575751
+Krishna123
+786786
+ram123
+#-----------pakistan pass list-----------#
+first last
+First Last
+first@123
+first@1234
+first123
+first1234
+first12345
+First Last123
+First Last12345
+khankhan
+malik123
+kingkhan
+baloch123
+pak123
+khan123
+janjan
+ali123
+#-----------The end-----------#
